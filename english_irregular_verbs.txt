@@ -1,373 +1,1119 @@
-arise	arose	arisen
-awake	awakened / awoke	awakened / awoken
-backslide	backslid	backslidden / backslid
-be	was, were	been
-bear	bore	born / borne
-beat	beat	beaten / beat
-become	became	become
-begin	began	begun
-bend	bent	bent
-bet	bet / betted [?]	bet / betted [?]
-bid (farewell)	bid / bade	bidden
-bid (offer amount)	bid	bid
-bind	bound	bound
-bite	bit	bitten
-bleed	bled	bled
-blow	blew	blown
-break	broke	broken
-breed	bred	bred
-bring	brought	brought
-broadcast	broadcast / broadcasted	broadcast / broadcasted
-browbeat	browbeat	browbeaten / browbeat
-build	built	built
-burn	burned / burnt [?]	burned / burnt [?]
-burst	burst	burst
-bust	busted / bust	busted / bust
-buy	bought	bought
-cast	cast	cast
-catch	caught	caught
-choose	chose	chosen
-cling	clung	clung
-clothe	clothed / clad [?]	clothed / clad [?]
-come	came	come
-cost	cost	cost
-creep	crept	crept
-crossbreed	crossbred	crossbred
-cut	cut	cut
-daydream	daydreamed / daydreamt [?]	daydreamed / daydreamt [?]
-deal	dealt 	dealt
-dig	dug	dug
-disprove	disproved	disproved / disproven
-dive (jump head-first)	dove / dived	dived
-dive (scuba diving)	dived / dove	dived
-do	did	done
-draw	drew	drawn
-dream	dreamed / dreamt [?]	dreamed / dreamt [?]
-drink	drank	drunk
-drive	drove	driven
-dwell	dwelt / dwelled [?]	dwelt / dwelled [?]
-eat	ate	eaten
-fall	fell	fallen
-feed	fed	fed
-feel	felt	felt
-fight	fought	fought
-find	found	found
-fit (tailor, change size)	fitted / fit [?]	fitted / fit [?]
-fit (be right size)	fit / fitted [?]	fit / fitted [?]
-flee	fled	fled
-fling	flung	flung
-fly	flew	flown
-forbid	forbade	forbidden
-forecast	forecast	forecast
-forego (also forgo)	forewent	foregone
-foresee	foresaw	foreseen
-foretell	foretold	foretold
-forget	forgot	forgotten / forgot [?]
-forgive	forgave	forgiven
-forsake	forsook	forsaken
-freeze	froze	frozen
-frostbite	frostbit	frostbitten
-get	got	gotten / got [?]
-give	gave	given
-go	went	gone
-grind	ground	ground
-grow	grew	grown
-hand-feed	hand-fed	hand-fed
-handwrite	handwrote	handwritten
-hang	hung	hung
-have	had	had
-hear	heard	heard
-hew	hewed	hewn / hewed
-hide	hid	hidden
-hit	hit	hit
-hold	held	held
-hurt	hurt	hurt
-inbreed	inbred	inbred
-inlay	inlaid	inlaid
-input	input / inputted	input / inputted
-interbreed	interbred	interbred
-interweave	interwove / interweaved	interwoven / interweaved
-interwind	interwound	interwound
-jerry-build	jerry-built	jerry-built
-keep	kept	kept
-kneel	knelt / kneeled	knelt / kneeled
-knit	knitted / knit	knitted / knit
-know	knew	known
-lay	laid	laid
-lead	led	led
-lean	leaned / leant [?]	leaned / leant [?]
-leap	leaped / leapt [?]	leaped / leapt [?]
-learn	learned / learnt [?]	learned / learnt [?]
-leave	left	left
-lend	lent	lent
-let	let	let
-lie	lay	lain
-lie (not tell truth) REGULAR	lied	lied
-light	lit / lighted	lit / lighted
-lip-read	lip-read	lip-read
-lose	lost	lost
-make	made	made
-mean	meant	meant
-meet	met	met
-miscast	miscast	miscast
-misdeal	misdealt	misdealt
-misdo	misdid	misdone
-mishear	misheard	misheard
-mislay	mislaid	mislaid
-mislead	misled	misled
-mislearn	mislearned / mislearnt [?]	mislearned / mislearnt [?]
-misread	misread	misread
-misset	misset	misset
-misspeak	misspoke	misspoken
-misspell	misspelled / misspelt [?]	misspelled / misspelt [?]
-misspend	misspent	misspent
-mistake	mistook	mistaken
-misteach	mistaught	mistaught
-misunderstand	misunderstood	misunderstood
-miswrite	miswrote	miswritten
-mow	mowed	mowed / mown
-offset	offset	offset
-outbid	outbid	outbid
-outbreed	outbred	outbred
-outdo	outdid	outdone
-outdraw	outdrew	outdrawn
-outdrink	outdrank	outdrunk
-outdrive	outdrove	outdriven
-outfight	outfought	outfought
-outfly	outflew	outflown
-outgrow	outgrew	outgrown
-outleap	outleaped / outleapt [?]	outleaped / outleapt [?]
-outlie (not tell truth) REGULAR	outlied	outlied
-outride	outrode	outridden
-outrun	outran	outrun
-outsell	outsold	outsold
-outshine	outshined / outshone [?]	outshined / outshone [?]
-outshoot	outshot	outshot
-outsing	outsang	outsung
-outsit	outsat	outsat
-outsleep	outslept	outslept
-outsmell	outsmelled / outsmelt [?]	outsmelled / outsmelt [?]
-outspeak	outspoke	outspoken
-outspeed	outsped	outsped
-outspend	outspent	outspent
-outswear	outswore	outsworn
-outswim	outswam	outswum
-outthink	outthought	outthought
-outthrow	outthrew	outthrown
-outwrite	outwrote	outwritten
-overbid	overbid	overbid
-overbreed	overbred	overbred
-overbuild	overbuilt	overbuilt
-overbuy	overbought	overbought
-overcome	overcame	overcome
-overdo	overdid	overdone
-overdraw	overdrew	overdrawn
-overdrink	overdrank	overdrunk
-overeat	overate	overeaten
-overfeed	overfed	overfed
-overhang	overhung	overhung
-overhear	overheard	overheard
-overlay	overlaid	overlaid
-overpay	overpaid	overpaid
-override	overrode	overridden
-overrun	overran	overrun
-oversee	oversaw	overseen
-oversell	oversold	oversold
-oversew	oversewed	oversewn / oversewed
-overshoot	overshot	overshot
-oversleep	overslept	overslept
-overspeak	overspoke	overspoken
-overspend	overspent	overspent
-overspill	overspilled / overspilt [?]	overspilled / overspilt [?]
-overtake	overtook	overtaken
-overthink	overthought	overthought
-overthrow	overthrew	overthrown
-overwind	overwound	overwound
-overwrite	overwrote	overwritten
-partake	partook	partaken
-pay	paid	paid
-plead	pleaded / pled	pleaded / pled
-prebuild	prebuilt	prebuilt
-predo	predid	predone
-premake	premade	premade
-prepay	prepaid	prepaid
-presell	presold	presold
-preset	preset	preset
-preshrink	preshrank	preshrunk
-proofread	proofread	proofread
-prove	proved	proven / proved
-put	put	put
-quick-freeze	quick-froze	quick-frozen
-quit	quit / quitted [?]	quit / quitted [?]
-read	read (sounds like "red")	 read (sounds like "red")
-reawake	reawoke	reawaken
-rebid	rebid	rebid
-rebind	rebound	rebound
-rebroadcast	rebroadcast / rebroadcasted	rebroadcast / rebroadcasted
-rebuild	rebuilt	rebuilt
-recast	recast	recast
-recut	recut	recut
-redeal	redealt	redealt
-redo	redid	redone
-redraw	redrew	redrawn
-refit (replace parts)	refit / refitted [?]	refit / refitted [?]
-refit (retailor)	refitted / refit  [?]	refitted / refit [?]
-regrind	reground	reground
-regrow	regrew	regrown
-rehang	rehung	rehung
-rehear	reheard	reheard
-reknit	reknitted / reknit	reknitted / reknit
-relay (for example tiles)	relaid	relaid
-relay (pass along) REGULAR	relayed	relayed
-relearn	relearned / relearnt [?]	relearned / relearnt [?]
-relight	relit / relighted	relit / relighted
-remake	remade	remade
-repay	repaid	repaid
-reread	reread	reread
-rerun	reran	rerun
-resell	resold	resold
-resend	resent	resent
-reset	reset	reset
-resew	resewed	resewn / resewed
-retake	retook	retaken
-reteach	retaught	retaught
-retear	retore	retorn
-retell	retold	retold
-rethink	rethought	rethought
-retread	retread	retread
-retrofit	retrofitted / retrofit [?]	retrofitted / retrofit [?]
-rewake	rewoke / rewaked	rewaken / rewaked
-rewear	rewore	reworn
-reweave	rewove / reweaved	rewoven / reweaved
-rewed	rewed / rewedded	rewed / rewedded
-rewet	rewet / rewetted [?]	rewet / rewetted [?]
-rewin	rewon	rewon
-rewind	rewound	rewound
-rewrite	rewrote	rewritten
-rid	rid	rid
-ride	rode	ridden
-ring	rang	rung
-rise	rose	risen
-roughcast	roughcast	roughcast
-run	ran	run
-sand-cast	sand-cast	sand-cast
-saw	sawed	sawed / sawn
-say	said	said
-see	saw	seen
-seek	sought	sought
-sell	sold	sold
-send	sent	sent
-set	set	set
-sew	sewed	sewn / sewed
-shake	shook	shaken
-shave	shaved	shaved / shaven
-shear	sheared	sheared / shorn
-shed	shed	shed
-shine	shined / shone [?]	shined / shone [?]
-shit	shit / shat / shitted	shit/ shat / shitted
-shoot	shot	shot
-show	showed	shown / showed
-shrink	shrank / shrunk	shrunk
-shut	shut	shut
-sight-read	sight-read	sight-read
-sing	sang	sung
-sink	sank / sunk	sunk
-sit	sat	sat
-slay (kill)	slew / slayed	slain / slayed
-slay (amuse) REGULAR	slayed	slayed
-sleep	slept	slept
-slide	slid	slid
-sling	slung	slung
-slink	slinked / slunk	slinked / slunk
-slit	slit	slit
-smell	smelled / smelt [?]	smelled / smelt [?]
-sneak	sneaked / snuck	sneaked / snuck
-sow	sowed	sown / sowed
-speak	spoke	spoken
-speed	sped / speeded	sped / speeded
-spell	spelled / spelt [?]	spelled / spelt [?]
-spend	spent	spent
-spill	spilled / spilt [?]	spilled / spilt [?]
-spin	spun	spun
-spit	spit / spat	spit / spat
-split	split	split
-spoil	spoiled / spoilt [?]	spoiled / spoilt [?]
-spoon-feed	spoon-fed	spoon-fed
-spread	spread	spread
-spring	sprang / sprung	sprung
-stand 	stood	stood
-steal	stole	stolen
-stick	stuck	stuck
-sting	stung	stung
-stink	stunk / stank	stunk
-strew	strewed	strewn / strewed
-stride	strode	stridden
-strike (delete)	struck	stricken
-strike (hit)	struck	struck / stricken
-string	strung	strung
-strive	strove / strived	striven / strived
-sublet	sublet	sublet
-sunburn	sunburned / sunburnt [?]	sunburned / sunburnt [?]
-swear	swore	sworn
-sweat	sweat / sweated	sweat / sweated
-sweep	swept	swept
-swell	swelled	swollen / swelled
-swim	swam	swum
-swing	swung	swung
-take	took	taken
-teach	taught	taught
-tear	tore	torn
-telecast	telecast	telecast
-tell	told	told
-test-drive	test-drove	test-driven
-test-fly	test-flew	test-flown
-think	thought	thought
-throw	threw	thrown
-thrust	thrust	thrust
-tread	trod	trodden / trod
-typecast	typecast	typecast
-typeset	typeset	typeset
-typewrite	typewrote	typewritten
-unbend	unbent	unbent
-unbind	unbound	unbound
-unclothe	unclothed / unclad [?]	unclothed / unclad [?]
-underbid	underbid	underbid
-undercut	undercut	undercut
-underfeed	underfed	underfed
-undergo	underwent	undergone
-underlie	underlay	underlain
-undersell	undersold	undersold
-underspend	underspent	underspent
-understand	understood	understood
-undertake	undertook	undertaken
-underwrite	underwrote	underwritten
-undo	undid	undone
-unfreeze	unfroze	unfrozen
-unhang	unhung	unhung
-unhide	unhid	unhidden
-unknit	unknitted / unknit	unknitted / unknit
-unlearn	unlearned / unlearnt [?]	unlearned / unlearnt [?]
-unsew	unsewed	unsewn / unsewed
-unsling	unslung	unslung
-unspin	unspun	unspun
-unstick	unstuck	unstuck
-unstring	unstrung	unstrung
-unweave	unwove / unweaved	unwoven / unweaved
-unwind	unwound	unwound
-uphold	upheld	upheld
-upset	upset	upset
-wake	woke / waked	woken / waked
-waylay	waylaid	waylaid
-wear	wore	worn
-weave	wove / weaved	woven / weaved
-wed	wed / wedded	wed / wedded
-weep	wept	wept
-wet	wet / wetted [?]	wet / wetted [?]
-whet  REGULAR	whetted	whetted
-win	won	won
-wind	wound	wound
-withdraw	withdrew	withdrawn
-withhold	withheld	withheld
-withstand	withstood	withstood
-wring	wrung	wrung
-write	wrote	written
+arise
+	past simple: arisen
+	past participle: arisen
+awake
+	past simple: awakened / awoken
+	past participle: awakened / awoken
+backslide
+	past simple: backslidden / backslid
+	past participle: backslidden / backslid
+be
+	past simple: been
+	past participle: been
+bear
+	past simple: born / borne
+	past participle: born / borne
+beat
+	past simple: beaten / beat
+	past participle: beaten / beat
+become
+	past simple: become
+	past participle: become
+begin
+	past simple: begun
+	past participle: begun
+bend
+	past simple: bent
+	past participle: bent
+bet
+	past simple: bet / betted [?]
+	past participle: bet / betted [?]
+bid (farewell)
+	past simple: bidden
+	past participle: bidden
+bid (offer amount)
+	past simple: bid
+	past participle: bid
+bind
+	past simple: bound
+	past participle: bound
+bite
+	past simple: bitten
+	past participle: bitten
+bleed
+	past simple: bled
+	past participle: bled
+blow
+	past simple: blown
+	past participle: blown
+break
+	past simple: broken
+	past participle: broken
+breed
+	past simple: bred
+	past participle: bred
+bring
+	past simple: brought
+	past participle: brought
+broadcast
+	past simple: broadcast / broadcasted
+	past participle: broadcast / broadcasted
+browbeat
+	past simple: browbeaten / browbeat
+	past participle: browbeaten / browbeat
+build
+	past simple: built
+	past participle: built
+burn
+	past simple: burned / burnt [?]
+	past participle: burned / burnt [?]
+burst
+	past simple: burst
+	past participle: burst
+bust
+	past simple: busted / bust
+	past participle: busted / bust
+buy
+	past simple: bought
+	past participle: bought
+cast
+	past simple: cast
+	past participle: cast
+catch
+	past simple: caught
+	past participle: caught
+choose
+	past simple: chosen
+	past participle: chosen
+cling
+	past simple: clung
+	past participle: clung
+clothe
+	past simple: clothed / clad [?]
+	past participle: clothed / clad [?]
+come
+	past simple: come
+	past participle: come
+cost
+	past simple: cost
+	past participle: cost
+creep
+	past simple: crept
+	past participle: crept
+crossbreed
+	past simple: crossbred
+	past participle: crossbred
+cut
+	past simple: cut
+	past participle: cut
+daydream
+	past simple: daydreamed / daydreamt [?]
+	past participle: daydreamed / daydreamt [?]
+deal
+	past simple: dealt
+	past participle: dealt
+dig
+	past simple: dug
+	past participle: dug
+disprove
+	past simple: disproved / disproven
+	past participle: disproved / disproven
+dive (jump head-first)
+	past simple: dived
+	past participle: dived
+dive (scuba diving)
+	past simple: dived
+	past participle: dived
+do
+	past simple: done
+	past participle: done
+draw
+	past simple: drawn
+	past participle: drawn
+dream
+	past simple: dreamed / dreamt [?]
+	past participle: dreamed / dreamt [?]
+drink
+	past simple: drunk
+	past participle: drunk
+drive
+	past simple: driven
+	past participle: driven
+dwell
+	past simple: dwelt / dwelled [?]
+	past participle: dwelt / dwelled [?]
+eat
+	past simple: eaten
+	past participle: eaten
+fall
+	past simple: fallen
+	past participle: fallen
+feed
+	past simple: fed
+	past participle: fed
+feel
+	past simple: felt
+	past participle: felt
+fight
+	past simple: fought
+	past participle: fought
+find
+	past simple: found
+	past participle: found
+fit (tailor, change size)
+	past simple: fitted / fit [?]
+	past participle: fitted / fit [?]
+fit (be right size)
+	past simple: fit / fitted [?]
+	past participle: fit / fitted [?]
+flee
+	past simple: fled
+	past participle: fled
+fling
+	past simple: flung
+	past participle: flung
+fly
+	past simple: flown
+	past participle: flown
+forbid
+	past simple: forbidden
+	past participle: forbidden
+forecast
+	past simple: forecast
+	past participle: forecast
+forego (also forgo)
+	past simple: foregone
+	past participle: foregone
+foresee
+	past simple: foreseen
+	past participle: foreseen
+foretell
+	past simple: foretold
+	past participle: foretold
+forget
+	past simple: forgotten / forgot [?]
+	past participle: forgotten / forgot [?]
+forgive
+	past simple: forgiven
+	past participle: forgiven
+forsake
+	past simple: forsaken
+	past participle: forsaken
+freeze
+	past simple: frozen
+	past participle: frozen
+frostbite
+	past simple: frostbitten
+	past participle: frostbitten
+get
+	past simple: gotten / got [?]
+	past participle: gotten / got [?]
+give
+	past simple: given
+	past participle: given
+go
+	past simple: gone
+	past participle: gone
+grind
+	past simple: ground
+	past participle: ground
+grow
+	past simple: grown
+	past participle: grown
+hand-feed
+	past simple: hand-fed
+	past participle: hand-fed
+handwrite
+	past simple: handwritten
+	past participle: handwritten
+hang
+	past simple: hung
+	past participle: hung
+have
+	past simple: had
+	past participle: had
+hear
+	past simple: heard
+	past participle: heard
+hew
+	past simple: hewn / hewed
+	past participle: hewn / hewed
+hide
+	past simple: hidden
+	past participle: hidden
+hit
+	past simple: hit
+	past participle: hit
+hold
+	past simple: held
+	past participle: held
+hurt
+	past simple: hurt
+	past participle: hurt
+inbreed
+	past simple: inbred
+	past participle: inbred
+inlay
+	past simple: inlaid
+	past participle: inlaid
+input
+	past simple: input / inputted
+	past participle: input / inputted
+interbreed
+	past simple: interbred
+	past participle: interbred
+interweave
+	past simple: interwoven / interweaved
+	past participle: interwoven / interweaved
+interwind
+	past simple: interwound
+	past participle: interwound
+jerry-build
+	past simple: jerry-built
+	past participle: jerry-built
+keep
+	past simple: kept
+	past participle: kept
+kneel
+	past simple: knelt / kneeled
+	past participle: knelt / kneeled
+knit
+	past simple: knitted / knit
+	past participle: knitted / knit
+know
+	past simple: known
+	past participle: known
+lay
+	past simple: laid
+	past participle: laid
+lead
+	past simple: led
+	past participle: led
+lean
+	past simple: leaned / leant [?]
+	past participle: leaned / leant [?]
+leap
+	past simple: leaped / leapt [?]
+	past participle: leaped / leapt [?]
+learn
+	past simple: learned / learnt [?]
+	past participle: learned / learnt [?]
+leave
+	past simple: left
+	past participle: left
+lend
+	past simple: lent
+	past participle: lent
+let
+	past simple: let
+	past participle: let
+lie
+	past simple: lain
+	past participle: lain
+lie (not tell truth) REGULAR
+	past simple: lied
+	past participle: lied
+light
+	past simple: lit / lighted
+	past participle: lit / lighted
+lip-read
+	past simple: lip-read
+	past participle: lip-read
+lose
+	past simple: lost
+	past participle: lost
+make
+	past simple: made
+	past participle: made
+mean
+	past simple: meant
+	past participle: meant
+meet
+	past simple: met
+	past participle: met
+miscast
+	past simple: miscast
+	past participle: miscast
+misdeal
+	past simple: misdealt
+	past participle: misdealt
+misdo
+	past simple: misdone
+	past participle: misdone
+mishear
+	past simple: misheard
+	past participle: misheard
+mislay
+	past simple: mislaid
+	past participle: mislaid
+mislead
+	past simple: misled
+	past participle: misled
+mislearn
+	past simple: mislearned / mislearnt [?]
+	past participle: mislearned / mislearnt [?]
+misread
+	past simple: misread
+	past participle: misread
+misset
+	past simple: misset
+	past participle: misset
+misspeak
+	past simple: misspoken
+	past participle: misspoken
+misspell
+	past simple: misspelled / misspelt [?]
+	past participle: misspelled / misspelt [?]
+misspend
+	past simple: misspent
+	past participle: misspent
+mistake
+	past simple: mistaken
+	past participle: mistaken
+misteach
+	past simple: mistaught
+	past participle: mistaught
+misunderstand
+	past simple: misunderstood
+	past participle: misunderstood
+miswrite
+	past simple: miswritten
+	past participle: miswritten
+mow
+	past simple: mowed / mown
+	past participle: mowed / mown
+offset
+	past simple: offset
+	past participle: offset
+outbid
+	past simple: outbid
+	past participle: outbid
+outbreed
+	past simple: outbred
+	past participle: outbred
+outdo
+	past simple: outdone
+	past participle: outdone
+outdraw
+	past simple: outdrawn
+	past participle: outdrawn
+outdrink
+	past simple: outdrunk
+	past participle: outdrunk
+outdrive
+	past simple: outdriven
+	past participle: outdriven
+outfight
+	past simple: outfought
+	past participle: outfought
+outfly
+	past simple: outflown
+	past participle: outflown
+outgrow
+	past simple: outgrown
+	past participle: outgrown
+outleap
+	past simple: outleaped / outleapt [?]
+	past participle: outleaped / outleapt [?]
+outlie (not tell truth) REGULAR
+	past simple: outlied
+	past participle: outlied
+outride
+	past simple: outridden
+	past participle: outridden
+outrun
+	past simple: outrun
+	past participle: outrun
+outsell
+	past simple: outsold
+	past participle: outsold
+outshine
+	past simple: outshined / outshone [?]
+	past participle: outshined / outshone [?]
+outshoot
+	past simple: outshot
+	past participle: outshot
+outsing
+	past simple: outsung
+	past participle: outsung
+outsit
+	past simple: outsat
+	past participle: outsat
+outsleep
+	past simple: outslept
+	past participle: outslept
+outsmell
+	past simple: outsmelled / outsmelt [?]
+	past participle: outsmelled / outsmelt [?]
+outspeak
+	past simple: outspoken
+	past participle: outspoken
+outspeed
+	past simple: outsped
+	past participle: outsped
+outspend
+	past simple: outspent
+	past participle: outspent
+outswear
+	past simple: outsworn
+	past participle: outsworn
+outswim
+	past simple: outswum
+	past participle: outswum
+outthink
+	past simple: outthought
+	past participle: outthought
+outthrow
+	past simple: outthrown
+	past participle: outthrown
+outwrite
+	past simple: outwritten
+	past participle: outwritten
+overbid
+	past simple: overbid
+	past participle: overbid
+overbreed
+	past simple: overbred
+	past participle: overbred
+overbuild
+	past simple: overbuilt
+	past participle: overbuilt
+overbuy
+	past simple: overbought
+	past participle: overbought
+overcome
+	past simple: overcome
+	past participle: overcome
+overdo
+	past simple: overdone
+	past participle: overdone
+overdraw
+	past simple: overdrawn
+	past participle: overdrawn
+overdrink
+	past simple: overdrunk
+	past participle: overdrunk
+overeat
+	past simple: overeaten
+	past participle: overeaten
+overfeed
+	past simple: overfed
+	past participle: overfed
+overhang
+	past simple: overhung
+	past participle: overhung
+overhear
+	past simple: overheard
+	past participle: overheard
+overlay
+	past simple: overlaid
+	past participle: overlaid
+overpay
+	past simple: overpaid
+	past participle: overpaid
+override
+	past simple: overridden
+	past participle: overridden
+overrun
+	past simple: overrun
+	past participle: overrun
+oversee
+	past simple: overseen
+	past participle: overseen
+oversell
+	past simple: oversold
+	past participle: oversold
+oversew
+	past simple: oversewn / oversewed
+	past participle: oversewn / oversewed
+overshoot
+	past simple: overshot
+	past participle: overshot
+oversleep
+	past simple: overslept
+	past participle: overslept
+overspeak
+	past simple: overspoken
+	past participle: overspoken
+overspend
+	past simple: overspent
+	past participle: overspent
+overspill
+	past simple: overspilled / overspilt [?]
+	past participle: overspilled / overspilt [?]
+overtake
+	past simple: overtaken
+	past participle: overtaken
+overthink
+	past simple: overthought
+	past participle: overthought
+overthrow
+	past simple: overthrown
+	past participle: overthrown
+overwind
+	past simple: overwound
+	past participle: overwound
+overwrite
+	past simple: overwritten
+	past participle: overwritten
+partake
+	past simple: partaken
+	past participle: partaken
+pay
+	past simple: paid
+	past participle: paid
+plead
+	past simple: pleaded / pled
+	past participle: pleaded / pled
+prebuild
+	past simple: prebuilt
+	past participle: prebuilt
+predo
+	past simple: predone
+	past participle: predone
+premake
+	past simple: premade
+	past participle: premade
+prepay
+	past simple: prepaid
+	past participle: prepaid
+presell
+	past simple: presold
+	past participle: presold
+preset
+	past simple: preset
+	past participle: preset
+preshrink
+	past simple: preshrunk
+	past participle: preshrunk
+proofread
+	past simple: proofread
+	past participle: proofread
+prove
+	past simple: proven / proved
+	past participle: proven / proved
+put
+	past simple: put
+	past participle: put
+quick-freeze
+	past simple: quick-frozen
+	past participle: quick-frozen
+quit
+	past simple: quit / quitted [?]
+	past participle: quit / quitted [?]
+read
+	past simple:  read (sounds like "red")
+	past participle:  read (sounds like "red")
+reawake
+	past simple: reawaken
+	past participle: reawaken
+rebid
+	past simple: rebid
+	past participle: rebid
+rebind
+	past simple: rebound
+	past participle: rebound
+rebroadcast
+	past simple: rebroadcast / rebroadcasted
+	past participle: rebroadcast / rebroadcasted
+rebuild
+	past simple: rebuilt
+	past participle: rebuilt
+recast
+	past simple: recast
+	past participle: recast
+recut
+	past simple: recut
+	past participle: recut
+redeal
+	past simple: redealt
+	past participle: redealt
+redo
+	past simple: redone
+	past participle: redone
+redraw
+	past simple: redrawn
+	past participle: redrawn
+refit (replace parts)
+	past simple: refit / refitted [?]
+	past participle: refit / refitted [?]
+refit (retailor)
+	past simple: refitted / refit [?]
+	past participle: refitted / refit [?]
+regrind
+	past simple: reground
+	past participle: reground
+regrow
+	past simple: regrown
+	past participle: regrown
+rehang
+	past simple: rehung
+	past participle: rehung
+rehear
+	past simple: reheard
+	past participle: reheard
+reknit
+	past simple: reknitted / reknit
+	past participle: reknitted / reknit
+relay (for example tiles)
+	past simple: relaid
+	past participle: relaid
+relay (pass along) REGULAR
+	past simple: relayed
+	past participle: relayed
+relearn
+	past simple: relearned / relearnt [?]
+	past participle: relearned / relearnt [?]
+relight
+	past simple: relit / relighted
+	past participle: relit / relighted
+remake
+	past simple: remade
+	past participle: remade
+repay
+	past simple: repaid
+	past participle: repaid
+reread
+	past simple: reread
+	past participle: reread
+rerun
+	past simple: rerun
+	past participle: rerun
+resell
+	past simple: resold
+	past participle: resold
+resend
+	past simple: resent
+	past participle: resent
+reset
+	past simple: reset
+	past participle: reset
+resew
+	past simple: resewn / resewed
+	past participle: resewn / resewed
+retake
+	past simple: retaken
+	past participle: retaken
+reteach
+	past simple: retaught
+	past participle: retaught
+retear
+	past simple: retorn
+	past participle: retorn
+retell
+	past simple: retold
+	past participle: retold
+rethink
+	past simple: rethought
+	past participle: rethought
+retread
+	past simple: retread
+	past participle: retread
+retrofit
+	past simple: retrofitted / retrofit [?]
+	past participle: retrofitted / retrofit [?]
+rewake
+	past simple: rewaken / rewaked
+	past participle: rewaken / rewaked
+rewear
+	past simple: reworn
+	past participle: reworn
+reweave
+	past simple: rewoven / reweaved
+	past participle: rewoven / reweaved
+rewed
+	past simple: rewed / rewedded
+	past participle: rewed / rewedded
+rewet
+	past simple: rewet / rewetted [?]
+	past participle: rewet / rewetted [?]
+rewin
+	past simple: rewon
+	past participle: rewon
+rewind
+	past simple: rewound
+	past participle: rewound
+rewrite
+	past simple: rewritten
+	past participle: rewritten
+rid
+	past simple: rid
+	past participle: rid
+ride
+	past simple: ridden
+	past participle: ridden
+ring
+	past simple: rung
+	past participle: rung
+rise
+	past simple: risen
+	past participle: risen
+roughcast
+	past simple: roughcast
+	past participle: roughcast
+run
+	past simple: run
+	past participle: run
+sand-cast
+	past simple: sand-cast
+	past participle: sand-cast
+saw
+	past simple: sawed / sawn
+	past participle: sawed / sawn
+say
+	past simple: said
+	past participle: said
+see
+	past simple: seen
+	past participle: seen
+seek
+	past simple: sought
+	past participle: sought
+sell
+	past simple: sold
+	past participle: sold
+send
+	past simple: sent
+	past participle: sent
+set
+	past simple: set
+	past participle: set
+sew
+	past simple: sewn / sewed
+	past participle: sewn / sewed
+shake
+	past simple: shaken
+	past participle: shaken
+shave
+	past simple: shaved / shaven
+	past participle: shaved / shaven
+shear
+	past simple: sheared / shorn
+	past participle: sheared / shorn
+shed
+	past simple: shed
+	past participle: shed
+shine
+	past simple: shined / shone [?]
+	past participle: shined / shone [?]
+shit
+	past simple: shit/ shat / shitted
+	past participle: shit/ shat / shitted
+shoot
+	past simple: shot
+	past participle: shot
+show
+	past simple: shown / showed
+	past participle: shown / showed
+shrink
+	past simple: shrunk
+	past participle: shrunk
+shut
+	past simple: shut
+	past participle: shut
+sight-read
+	past simple: sight-read
+	past participle: sight-read
+sing
+	past simple: sung
+	past participle: sung
+sink
+	past simple: sunk
+	past participle: sunk
+sit
+	past simple: sat
+	past participle: sat
+slay (kill)
+	past simple: slain / slayed
+	past participle: slain / slayed
+slay (amuse) REGULAR
+	past simple: slayed
+	past participle: slayed
+sleep
+	past simple: slept
+	past participle: slept
+slide
+	past simple: slid
+	past participle: slid
+sling
+	past simple: slung
+	past participle: slung
+slink
+	past simple: slinked / slunk
+	past participle: slinked / slunk
+slit
+	past simple: slit
+	past participle: slit
+smell
+	past simple: smelled / smelt [?]
+	past participle: smelled / smelt [?]
+sneak
+	past simple: sneaked / snuck
+	past participle: sneaked / snuck
+sow
+	past simple: sown / sowed
+	past participle: sown / sowed
+speak
+	past simple: spoken
+	past participle: spoken
+speed
+	past simple: sped / speeded
+	past participle: sped / speeded
+spell
+	past simple: spelled / spelt [?]
+	past participle: spelled / spelt [?]
+spend
+	past simple: spent
+	past participle: spent
+spill
+	past simple: spilled / spilt [?]
+	past participle: spilled / spilt [?]
+spin
+	past simple: spun
+	past participle: spun
+spit
+	past simple: spit / spat
+	past participle: spit / spat
+split
+	past simple: split
+	past participle: split
+spoil
+	past simple: spoiled / spoilt [?]
+	past participle: spoiled / spoilt [?]
+spoon-feed
+	past simple: spoon-fed
+	past participle: spoon-fed
+spread
+	past simple: spread
+	past participle: spread
+spring
+	past simple: sprung
+	past participle: sprung
+stand 
+	past simple: stood
+	past participle: stood
+steal
+	past simple: stolen
+	past participle: stolen
+stick
+	past simple: stuck
+	past participle: stuck
+sting
+	past simple: stung
+	past participle: stung
+stink
+	past simple: stunk
+	past participle: stunk
+strew
+	past simple: strewn / strewed
+	past participle: strewn / strewed
+stride
+	past simple: stridden
+	past participle: stridden
+strike (delete)
+	past simple: stricken
+	past participle: stricken
+strike (hit)
+	past simple: struck / stricken
+	past participle: struck / stricken
+string
+	past simple: strung
+	past participle: strung
+strive
+	past simple: striven / strived
+	past participle: striven / strived
+sublet
+	past simple: sublet
+	past participle: sublet
+sunburn
+	past simple: sunburned / sunburnt [?]
+	past participle: sunburned / sunburnt [?]
+swear
+	past simple: sworn
+	past participle: sworn
+sweat
+	past simple: sweat / sweated
+	past participle: sweat / sweated
+sweep
+	past simple: swept
+	past participle: swept
+swell
+	past simple: swollen / swelled
+	past participle: swollen / swelled
+swim
+	past simple: swum
+	past participle: swum
+swing
+	past simple: swung
+	past participle: swung
+take
+	past simple: taken
+	past participle: taken
+teach
+	past simple: taught
+	past participle: taught
+tear
+	past simple: torn
+	past participle: torn
+telecast
+	past simple: telecast
+	past participle: telecast
+tell
+	past simple: told
+	past participle: told
+test-drive
+	past simple: test-driven
+	past participle: test-driven
+test-fly
+	past simple: test-flown
+	past participle: test-flown
+think
+	past simple: thought
+	past participle: thought
+throw
+	past simple: thrown
+	past participle: thrown
+thrust
+	past simple: thrust
+	past participle: thrust
+tread
+	past simple: trodden / trod
+	past participle: trodden / trod
+typecast
+	past simple: typecast
+	past participle: typecast
+typeset
+	past simple: typeset
+	past participle: typeset
+typewrite
+	past simple: typewritten
+	past participle: typewritten
+unbend
+	past simple: unbent
+	past participle: unbent
+unbind
+	past simple: unbound
+	past participle: unbound
+unclothe
+	past simple: unclothed / unclad [?]
+	past participle: unclothed / unclad [?]
+underbid
+	past simple: underbid
+	past participle: underbid
+undercut
+	past simple: undercut
+	past participle: undercut
+underfeed
+	past simple: underfed
+	past participle: underfed
+undergo
+	past simple: undergone
+	past participle: undergone
+underlie
+	past simple: underlain
+	past participle: underlain
+undersell
+	past simple: undersold
+	past participle: undersold
+underspend
+	past simple: underspent
+	past participle: underspent
+understand
+	past simple: understood
+	past participle: understood
+undertake
+	past simple: undertaken
+	past participle: undertaken
+underwrite
+	past simple: underwritten
+	past participle: underwritten
+undo
+	past simple: undone
+	past participle: undone
+unfreeze
+	past simple: unfrozen
+	past participle: unfrozen
+unhang
+	past simple: unhung
+	past participle: unhung
+unhide
+	past simple: unhidden
+	past participle: unhidden
+unknit
+	past simple: unknitted / unknit
+	past participle: unknitted / unknit
+unlearn
+	past simple: unlearned / unlearnt [?]
+	past participle: unlearned / unlearnt [?]
+unsew
+	past simple: unsewn / unsewed
+	past participle: unsewn / unsewed
+unsling
+	past simple: unslung
+	past participle: unslung
+unspin
+	past simple: unspun
+	past participle: unspun
+unstick
+	past simple: unstuck
+	past participle: unstuck
+unstring
+	past simple: unstrung
+	past participle: unstrung
+unweave
+	past simple: unwoven / unweaved
+	past participle: unwoven / unweaved
+unwind
+	past simple: unwound
+	past participle: unwound
+uphold
+	past simple: upheld
+	past participle: upheld
+upset
+	past simple: upset
+	past participle: upset
+wake
+	past simple: woken / waked
+	past participle: woken / waked
+waylay
+	past simple: waylaid
+	past participle: waylaid
+wear
+	past simple: worn
+	past participle: worn
+weave
+	past simple: woven / weaved
+	past participle: woven / weaved
+wed
+	past simple: wed / wedded
+	past participle: wed / wedded
+weep
+	past simple: wept
+	past participle: wept
+wet
+	past simple: wet / wetted [?]
+	past participle: wet / wetted [?]
+whet  REGULAR
+	past simple: whetted
+	past participle: whetted
+win
+	past simple: won
+	past participle: won
+wind
+	past simple: wound
+	past participle: wound
+withdraw
+	past simple: withdrawn
+	past participle: withdrawn
+withhold
+	past simple: withheld
+	past participle: withheld
+withstand
+	past simple: withstood
+	past participle: withstood
+wring
+	past simple: wrung
+	past participle: wrung
+write
+	past simple: written
+	past participle: written
